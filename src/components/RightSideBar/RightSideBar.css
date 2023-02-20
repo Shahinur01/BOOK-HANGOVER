@@ -2,6 +2,25 @@
     position:fixed;
     top: 290px;
 }
+.RightSideBar img{
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+.RightSideBar button{
+    font-size: 25px;
+    color: peru;
+    padding: 5px 20px;
+    background: transparent;
+    cursor: none;
+    border: none;
+ 
+}
+.RightSideBar i{
+    cursor: pointer;
+}
 .RightSideBar h3{
     color: #58BDAB;
     text-transform: uppercase;

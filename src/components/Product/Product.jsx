@@ -1,20 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import './Product.css';
 
-const Product = () => {
-    const [productImages, setProductImages] = useState([]);
-    // const [cart,setCart] = useState([]);
-    useEffect(() => {
-        fetch("api/fake.json")
-            .then(response => response.json())
-            .then(data => setProductImages(data.luckyImages));
-    }, []);
-
-    const HandleAddToCart = (item) =>{
-        // const newCart = [...cart.item];
-        // setCart(newCart);
-        console.log(item);
-    }
+const Product = ({productImages,HandleAddToCart}) => {
+   
 
     return (
         <div className='container my-5'>
