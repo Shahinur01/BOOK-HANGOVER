@@ -1,0 +1,77 @@
+{
+    "luckyImages":[
+        {
+            "id":1,
+            "name":"Think & grow rich",
+            "price":85,
+            "image":"https://i.postimg.cc/Pq9gQrZF/Think-grow-rich.jpg"
+        },
+        {
+            "id":2,
+            "name":"Rich dad, poor dad",
+            "price":26,
+            "image":"https://i.postimg.cc/7Zs8bNL4/Rich-dad-poor-dad.png"
+        },
+        {
+            "id":3,
+            "name":"Eat the frog",
+            "price":50,
+            "image":"https://i.postimg.cc/3wkMGDyv/Eat-the-frog.jpg"
+        },
+        {
+            "id":4,
+            "name":"In Search of Lost Time",
+            "price":80,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/ohbd3xqukj7do2f0o5txmhghfsva"
+        },
+        {
+            "id":5,
+            "name":"Ulysses ",
+            "price":40,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/usuab7s8yuwlcmadwx9woy746lvi"
+        },
+        {
+            "id":6,
+            "name":"Don Quixote",
+            "price":100,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/ifc3s3qijfdlop9douz1difnuwk6"
+        },
+        {
+            "id":7,
+            "name":"One Hundred Years of Solitude ",
+            "price":100,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/7pc7v940tg2z40i9x9tq7qi0fx35"
+        },
+        {
+            "id":8,
+            "name":"The Great Gatsby",
+            "price":30,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/z3d1ro97lc1yd91yalvalbn2xcc5"
+        },
+        {
+            "id":9,
+            "name":"Moby Dick",
+            "price":80,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/jzeie89rkkv1s2q7dwwgiysixnty"
+        },
+        {
+            "id":10,
+            "name":"War and Peace",
+            "price":70,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/swd3lfscp8lshlhuwfjng9s92o8q"
+        },
+        {
+            "id":11,
+            "name":"Hamlet ",
+            "price":50,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/xyqnrn3ystlqgvx01n311l5o8u4x"
+        },
+        {
+            "id":12,
+            "name":"The Divine Comedy",
+            "price":50,
+            "image":"https://d3i5mgdwi2ze58.cloudfront.net/r3pnyg732gdvkmh8pik9p0b5ct6y"
+        }
+        
+    ]
+}

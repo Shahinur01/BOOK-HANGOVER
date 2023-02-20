@@ -1,0 +1,9 @@
+.RightSideBar{
+    position:fixed;
+    top: 290px;
+}
+.RightSideBar h3{
+    color: #58BDAB;
+    text-transform: uppercase;
+    text-decoration:underline;
+}
