@@ -3,12 +3,15 @@ import './RightSideBar.css';
 
 const RightSideBar = (props) => {
     let { cart, setCart } = props;
-    // const [handleAgain,setHandleAgain] = useState([]);
+    // const [handleChoose,setHandleChoose] = useState([]);
 
 
     const handleChooseAgain = () => {
         setCart([]);
     }
+    // const handleChooseFor1Me = () => {
+
+    // }
 
     const handleDelete = (id) => {
         const deleteCart = cart.filter(c => c.id !== id);
@@ -20,7 +23,7 @@ const RightSideBar = (props) => {
     return (
         <div className="RightSideBar">
             <h3>Selected Books:{cart.length}</h3>
-            <div className="btn btn-primary">Choose for 1 me</div> &nbsp;
+            {/* <div onClick={handleChooseFor1Me} className="btn btn-primary">Choose for 1 me</div> &nbsp; */}
             <div onClick={handleChooseAgain} className="btn btn-success">Choose Again</div>
 
             {
